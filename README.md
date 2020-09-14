@@ -1,4 +1,4 @@
-# Markowitz_bullet-MPT
+# Markowitz_bullet - Modern Portfolio Theory
 Plotting Markowitz bullets and an efficient frontier for a given Portfolio of Equity and devising the Weights for the portfolio with maximum Sharpe ratio.
 
 Modern portfolio theory (MPT), or mean-variance analysis, is a mathematical framework for assembling a portfolio of assets such that the expected return is maximized for a given level of risk. It is a formalization and extension of diversification in investing, the idea that owning different kinds of financial assets is less risky than owning only one type.
